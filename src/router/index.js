@@ -10,7 +10,7 @@ const Chat = () => import('@/views/user/chat.vue') // 编辑资料组件
 const Login = () => import('@/views/login') // 登录组件
 const Article = () => import('@/views/article') // 文章组件
 const Search = () => import('@/views/search') // 搜索组件
-const Result = () => import('@/views/search/result') // 搜索结果
+const Result = () => import('@/views/search/result.vue') // 搜索结果
 Vue.use(VueRouter)
 
 const routes = [
