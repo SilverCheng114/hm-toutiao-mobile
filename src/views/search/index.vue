@@ -1,11 +1,10 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+  <div>搜索</div>
 </template>
 
 <script>
 export default {
+  name: 'search'
 }
 </script>
 

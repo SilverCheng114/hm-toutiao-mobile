@@ -1,11 +1,10 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+  <div>布局</div>
 </template>
 
 <script>
 export default {
+  name: 'layout'
 }
 </script>
 

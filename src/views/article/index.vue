@@ -1,11 +1,10 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+  <div>文章</div>
 </template>
 
 <script>
 export default {
+  name: 'article'
 }
 </script>
 

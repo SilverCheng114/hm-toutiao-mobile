@@ -1,11 +1,10 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+  <div>视频模块</div>
 </template>
 
 <script>
 export default {
+  name: 'video'
 }
 </script>
 

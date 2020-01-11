@@ -1,11 +1,10 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+  <div>问答模块</div>
 </template>
 
 <script>
 export default {
+  name: 'question'
 }
 </script>
 
